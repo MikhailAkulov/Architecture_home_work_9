@@ -1,11 +1,11 @@
-# Урок 9. Способы организации передачи данных между компонентами приложения, протоколы и API. REST, gRPC, очереди
+# РЈСЂРѕРє 9. РЎРїРѕСЃРѕР±С‹ РѕСЂРіР°РЅРёР·Р°С†РёРё РїРµСЂРµРґР°С‡Рё РґР°РЅРЅС‹С… РјРµР¶РґСѓ РєРѕРјРїРѕРЅРµРЅС‚Р°РјРё РїСЂРёР»РѕР¶РµРЅРёСЏ, РїСЂРѕС‚РѕРєРѕР»С‹ Рё API. REST, gRPC, РѕС‡РµСЂРµРґРё
 
-## Задание: Доработать метод `Delete` на уровне модели данных и контроллера.
+## Р—Р°РґР°РЅРёРµ: Р”РѕСЂР°Р±РѕС‚Р°С‚СЊ РјРµС‚РѕРґ `Delete` РЅР° СѓСЂРѕРІРЅРµ РјРѕРґРµР»Рё РґР°РЅРЅС‹С… Рё РєРѕРЅС‚СЂРѕР»Р»РµСЂР°.
 
-В классе WeatherForecastModel метод Delete реализован в следующем виде:
+Р’ РєР»Р°СЃСЃРµ WeatherForecastModel РјРµС‚РѕРґ Delete СЂРµР°Р»РёР·РѕРІР°РЅ РІ СЃР»РµРґСѓСЋС‰РµРј РІРёРґРµ:
 
 [WeatherForecastModel](https://github.com/MikhailAkulov/Architecture_home_work_9/blob/main/MyFirstWebApplication/MyFirstWebApplication/Models/WeatherForecastModel.cs)
 
-В классе WeatherForecastController:
+Р’ РєР»Р°СЃСЃРµ WeatherForecastController:
 
 [WeatherForecastController](https://github.com/MikhailAkulov/Architecture_home_work_9/blob/main/MyFirstWebApplication/MyFirstWebApplication/Controllers/WeatherForecastController.cs)
